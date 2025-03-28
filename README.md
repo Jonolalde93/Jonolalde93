@@ -4,7 +4,7 @@
 - 📫 You can reach me via: www.linkedin.com/in/jon-olalde-jometon
 
 
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
