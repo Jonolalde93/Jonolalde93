@@ -10,7 +10,7 @@
 - 🔍 Diving deeper into, **machine learning**, and **advanced bioinformatics pipelines**
 - 🤝 Collaborating on open science and reproducible research projects
 
-### 📬 Let's Connect
+### 📬 Let's Connect !
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jon-olalde-jometon) or via 📧 Email: **jonolalde93@outlook.com**
 
