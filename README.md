@@ -12,8 +12,6 @@
 
 ### 📬 Let's Connect
 -📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jon-olalde-jometon) or via 📧 Email: **jonolalde93@outlook.com**
--😄 **Pronouns:** He/Him
-
 ---
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
