@@ -9,7 +9,7 @@
 ### 🚀 What I'm up to
 
 - 🌱 Sharpening my skills in **Python**, **SQL**, and **R**
-- 🔍 Diving deeper into, **machine learning**, and **advanced bioinformatics pipelines**
+- 🔍 Diving deeper into, **data analysis**, **machine learning**, and **advanced bioinformatics pipelines**
 - 🤝 Collaborating on open science and reproducible research projects
 
 ### 📬 Let's Connect !
