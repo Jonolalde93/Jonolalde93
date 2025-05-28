@@ -3,7 +3,7 @@
 ### Info
 
 - 🎓 I'm a **Biologist turned Data Scientist** with a passion for uncovering insights hidden in complex biological data!
-- 📊Specialized in **Bioinformatics** and **Biostatistics**
+- 📊 Specialized in **Bioinformatics** and **Biostatistics**
 - 🔬 Experienced in **biomedical research**, **Python** and **R** programming, **statistical analysis**, and **omics data analysis**
 
 ### 🚀 What I'm up to
