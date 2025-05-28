@@ -2,7 +2,6 @@
 
 🎓 **Biologist** specialized in **Bioinformatics**, **Biostatistics**, and **Data Science**  
 🔬 Experienced in **biomedical research**, **Python** and **R** programming, **statistical analysis**, and **omics data analysis**
-
 🌱 Currently developing my skills in **Python**, **SQL**, and **R**  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jon-olalde-jometon) or via email at **jonolalde93@outlook.com**  
 😄 **Pronouns:** He/Him
